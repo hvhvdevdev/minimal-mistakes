@@ -1,6 +1,6 @@
 ---
 title: "Lorem ipsum Tiger"
-layout: posts
+layout: postszz
 tags: tiger,animal,lorem,ipsum,a,b
 ---
 
