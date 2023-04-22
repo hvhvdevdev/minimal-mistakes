@@ -1,6 +1,6 @@
 ---
 title: "How I eat dog food"
-layout: postszz
+layout: posts
 tags: dog,animal,eat
 ---
 
