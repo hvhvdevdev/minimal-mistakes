@@ -19,4 +19,12 @@ layout: archive
   {% endfor %}
 </div>
 
+<h2>Battles</h2>
+
+{% for battle in site.data.data_Battle %}
+  <li>
+      {{ battle.name }}
+  </li>
+{% endfor %}
+
 {% include paginator.html %}
