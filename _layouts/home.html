@@ -23,7 +23,15 @@ layout: archive
 
 {% for battle in site.data.data_Battle %}
   <li>
-      {{ battle.name }}
+    <b>{{ battle.name }}</b>: {{ battle.description }}
+  </li>
+{% endfor %}
+
+<h2>Battles</h2>
+
+{% for battle in site.data.data_Nation %}
+  <li>
+    <b>{{ nation.name }}</b>: {{ nation.description }}
   </li>
 {% endfor %}
 
