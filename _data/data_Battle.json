@@ -7,5 +7,14 @@
     "attacker": "FRU",
     "defender-loss": 123,
     "attacker-loss": 456
+  },
+  {
+    "code": "aaaa",
+    "name": "aaaaaa",
+    "defender": "NVN",
+    "attacker": "SVN",
+    "defender-loss": "11",
+    "attacker-loss": "22222",
+    "description": "<p><strong>XZZx</strong></p>"
   }
 ]
